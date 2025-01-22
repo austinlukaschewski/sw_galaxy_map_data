@@ -1,5 +1,18 @@
 [
     {
+        "id": 9999999,
+        "name": "At Attin",
+        "grid": "N-6",
+        "x": 285.91,
+        "y": 375.30,
+        "coord_x": 0,
+        "coord_y": 0,
+        "sector": "A113",
+        "region": "",
+        "latitude": 285.91,
+        "longitude": 375.30
+    },
+    {
         "id": 11034,
         "name": "Worru'du",
         "grid": "K-10",
